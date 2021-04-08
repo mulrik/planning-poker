@@ -1,4 +1,4 @@
-Planning poker
+# Planning poker
 A next.js project with firebase firestore
 
 ```bash
